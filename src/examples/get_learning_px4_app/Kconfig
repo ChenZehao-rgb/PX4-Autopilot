@@ -1,0 +1,7 @@
+menuconfig EXAMPLES_GET_LEARNING_PX4_APP
+bool "get_learning_px4_app"
+default n
+
+---help---
+     Enable support for get_learning_px4_app
+
